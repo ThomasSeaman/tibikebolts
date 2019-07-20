@@ -390,6 +390,9 @@ input.ct-red + span + label + span.switch-right {
   border-top-color: white-space: nowrap;;
 }
 
+.direct-sale{
+  color:orange;
+}
 .btn-warning {
   border-color: #FF9500;
   color: #FF9500;
